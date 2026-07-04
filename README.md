@@ -1,7 +1,7 @@
 ## Robert Rothermel
 ### Azure DevOps & Platform Engineer — CI/CD and Azure platform engineering for regulated, compliance-driven environments
 
-Personal engineering portfolio. This org is where my clean-room reference implementations live —
+Personal engineering portfolio. This profile is where my clean-room reference implementations live —
 Azure DevOps CI/CD, AKS, IaC, and compliance-grounded automation, each isolated so the mechanics are
 easy to review.
 
@@ -28,4 +28,4 @@ pass; available on request in the meantime.
 
 `Azure` (AKS · App Service · Front Door · Entra ID · Defender · Monitor/KQL) · `Bicep` · `Terraform` · `Pulumi` · `Azure DevOps` · `GitHub Actions` · `C#/.NET` · `PowerShell` · `SOC 2`
 
-<sub>Personal portfolio of Robert Rothermel. "Quantize" is a one-person practice — this org is where the engineering work lives, not a company with staff or customers.</sub>
+<sub>Personal portfolio of Robert Rothermel. "Quantize" is a one-person practice — this profile is where the engineering work lives, not a company with staff or customers.</sub>
