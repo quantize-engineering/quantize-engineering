@@ -5,7 +5,7 @@ Personal engineering portfolio. This profile is where my clean-room reference im
 Azure DevOps CI/CD, AKS, IaC, and compliance-grounded automation, each isolated so the mechanics are
 easy to review.
 
-**[quantize.engineering](https://quantize.engineering)** · [Résumé (PDF)](https://quantize.engineering/Robert-Rothermel-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/robert-rothermel-quantize) · robert@quantize.engineering
+**[quantize.engineering](https://www.quantize.engineering)** · [Résumé (PDF)](https://www.quantize.engineering/Robert-Rothermel-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/robert-rothermel-quantize) · robert@quantize.engineering
 
 Five years of production Azure: I led an on-prem datacenter → Azure migration, built the CI/CD
 pipeline that took releases from ~2 hours to ~20 minutes, and implemented the cloud-side SOC 2
