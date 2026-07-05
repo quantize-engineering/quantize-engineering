@@ -28,4 +28,4 @@ pass; available on request in the meantime.
 
 `Azure` (AKS · App Service · Front Door · Entra ID · Defender · Monitor/KQL) · `Bicep` · `Terraform` · `Pulumi` · `Azure DevOps` · `GitHub Actions` · `C#/.NET` · `PowerShell` · `SOC 2`
 
-<sub>Personal portfolio of Robert Rothermel. "Quantize" is a one-person practice — this profile is where the engineering work lives, not a company with staff or customers.</sub>
+<sub>Personal portfolio of Robert Rothermel.</sub>
