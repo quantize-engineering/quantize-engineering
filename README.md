@@ -9,7 +9,8 @@ easy to review.
 
 Five years of production Azure: I led an on-prem datacenter → Azure migration, built the CI/CD
 pipeline that took releases from ~2 hours to ~20 minutes, and implemented the cloud-side SOC 2
-controls that pass an auditor's review. **AZ-104** certified; **AZ-400** in progress.
+controls that pass an auditor's review. **Microsoft Certified: DevOps Engineer Expert (AZ-400)** and
+**Azure Administrator Associate (AZ-104)**.
 
 ### Selected reference implementations
 
@@ -28,4 +29,4 @@ pass; available on request in the meantime.
 
 `Azure` (AKS · App Service · Front Door · Entra ID · Defender · Monitor/KQL) · `Bicep` · `Terraform` · `Pulumi` · `Azure DevOps` · `GitHub Actions` · `C#/.NET` · `PowerShell` · `SOC 2`
 
-<sub>Personal portfolio of Robert Rothermel.</sub>
+<sub>Personal portfolio of Robert Rothermel. "Quantize" is a one-person practice — this profile is where the engineering work lives, not a company with staff or customers.</sub>
